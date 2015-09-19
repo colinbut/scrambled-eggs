@@ -1,4 +1,4 @@
-Scrambled Eggs
+Scrambled Text
 =====
 
 This is a very small and inefficient program that reassembles a given set of text fragments back into their original sequence. 
